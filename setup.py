@@ -19,7 +19,6 @@ setup(
         'Django>=1.6',
         'requests',
         'six',
-        'wsgiref',
     ],
     tests_require = [
         'nose>=1.0',
